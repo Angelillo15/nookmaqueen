@@ -1,7 +1,7 @@
 
 > Abra esta pagina en [https://angelillo15.github.io/nookmaqueen/](https://angelillo15.github.io/nookmaqueen/)
 
-## Usar como extensión
+## Use as extension
 
 Este repositorio puede ser añadido como una **extensión** en MakeCode.
 
